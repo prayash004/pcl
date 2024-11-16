@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1",
+    "solc": "^0.8.28",
+    "web3": "^4.15.0"
+  }
+}
